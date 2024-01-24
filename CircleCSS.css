@@ -1,0 +1,79 @@
+body {
+  background-image: ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+half-page {
+  height: 75vh;
+  width: 100%;
+  float: left;
+  position: relative;
+  background: linear-gradient(45deg, rgb(212, 243, 255) 15px, white 5px, white 10px, transparent 13px, transparent 10px) 0 0/40px 30px repeat;
+}
+half-page {
+  height: 75vh;
+  width: 100%;
+  float: left;
+  position: relative;
+  background-color: rgb(216, 238, 246);
+}
+
+
+.content {
+  height: 100vh;
+  width: 50%;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  display: flex;
+  justify-content: space-between; /* Distributes space between items */
+  width: 75%; /* Adjust the width as needed */
+}
+
+li {
+  margin: 0;
+}
+
+li a {
+  display: block;
+  color: rgb(11, 11, 11);
+  text-align: center;
+  padding: 17px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #abfaf5;
+}
+
+img {
+  margin:4px 1; /* Adjust the top margin as needed */
+}
+
+/* styles.css */
+
+/* styles.css */
+
+button {
+  border-color: rgb(44, 214, 214);
+  background-color: rgb(42, 213, 213);
+  width: 140px;
+  height: 35px;
+  font-size: 14px;
+  color: white;
+  /* Add other styles as needed */
+}
+.jose{
+  text-align: left;
+  height: 40px;
+  width: 100px;px;
+  border: 2px solid
+}
